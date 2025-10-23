@@ -1,5 +1,5 @@
 h1{
-    color:white;
+    color:black;
     font-size: 500%;
     text-align: center;
     margin:0;
@@ -9,12 +9,12 @@ h1{
 h2{
     border-bottom: 2px solid white;
     border-left: 4px solid gray;
-    color:white;
+    color:black;
     display: inline-block;
 }
 
 p{
-    color:white;
+    color:black;
     font-size: 20px;
 }
 
@@ -29,7 +29,7 @@ img{
 }
 
 a{
-    color: white;
+    color: black;
 }
 
 a:hover{
