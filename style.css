@@ -7,18 +7,18 @@ body.home{
 }
 
 body.tenjikuaoi{
-    background-color: white;
-  background-image: url(img/tenjikuaoi_flyer.png);
+    background-color: ivory;
   background-size: cover;
   padding: 60px;
+  color: black;
   font-family: "Noto Serif JP", "Hiragino Mincho ProN", "Hiragino Mincho Pro","Yu Mincho", "MS Mincho", serif;
 }
 
 body.kinotake{
     background-color: ivory;
-  background-image: url(img/ComingSoon.png);
   background-size: cover;
   padding: 60px;
+  color: black;
   font-family: "Noto Serif JP", "Hiragino Mincho ProN", "Hiragino Mincho Pro","Yu Mincho", "MS Mincho", serif;
 }
 
@@ -60,6 +60,7 @@ a:hover{
     color: gray;
 
 }
+
 
 
 
