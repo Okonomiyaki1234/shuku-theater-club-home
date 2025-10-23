@@ -1,0 +1,46 @@
+h1{
+    color:white;
+    font-size: 500%;
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+
+h2{
+    border-bottom: 2px solid white;
+    border-left: 4px solid gray;
+    color:white;
+    display: inline-block;
+}
+
+p{
+    color:white;
+    font-size: 20px;
+}
+
+div.block{
+    margin-left: 5%;
+}
+
+img{
+    width: 25%;
+    height: auto;
+    border-radius: 5%;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: gray;
+
+}
+
+body{
+    background-color: ivory;
+  background-size: cover;
+  padding: 60px;
+  color: black;
+  font-family: "Noto Serif JP", "Hiragino Mincho ProN", "Hiragino Mincho Pro","Yu Mincho", "MS Mincho", serif;
+}
