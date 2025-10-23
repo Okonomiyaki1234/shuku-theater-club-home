@@ -1,5 +1,5 @@
 body{
-    background-color: ivory;
+    background-color: black;
   background-image: url(img/img1.png);
   background-size: cover;
   padding: 60px;
@@ -42,4 +42,5 @@ a{
 
 a:hover{
     color: gray;
+
 }
