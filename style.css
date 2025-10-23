@@ -6,6 +6,22 @@ body.home{
   font-family: "Noto Serif JP", "Hiragino Mincho ProN", "Hiragino Mincho Pro","Yu Mincho", "MS Mincho", serif;
 }
 
+body.tenjikuaoi{
+    background-color: white;
+  background-image: url(img/tenjikuaoi_flyer.png);
+  background-size: cover;
+  padding: 60px;
+  font-family: "Noto Serif JP", "Hiragino Mincho ProN", "Hiragino Mincho Pro","Yu Mincho", "MS Mincho", serif;
+}
+
+body.home{
+    background-color: ivory;
+  background-image: url(img/ComingSoon.png);
+  background-size: cover;
+  padding: 60px;
+  font-family: "Noto Serif JP", "Hiragino Mincho ProN", "Hiragino Mincho Pro","Yu Mincho", "MS Mincho", serif;
+}
+
 h1{
     color:white;
     font-size: 500%;
@@ -44,4 +60,5 @@ a:hover{
     color: gray;
 
 }
+
 
