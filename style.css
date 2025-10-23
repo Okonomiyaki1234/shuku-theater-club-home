@@ -14,7 +14,7 @@ body.tenjikuaoi{
   font-family: "Noto Serif JP", "Hiragino Mincho ProN", "Hiragino Mincho Pro","Yu Mincho", "MS Mincho", serif;
 }
 
-body.home{
+body.kinotake{
     background-color: ivory;
   background-image: url(img/ComingSoon.png);
   background-size: cover;
@@ -60,5 +60,6 @@ a:hover{
     color: gray;
 
 }
+
 
 
