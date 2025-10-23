@@ -1,4 +1,4 @@
-body{
+body.home{
     background-color: black;
   background-image: url(img/img1.png);
   background-size: cover;
@@ -44,3 +44,4 @@ a:hover{
     color: gray;
 
 }
+
